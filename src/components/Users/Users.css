@@ -1,0 +1,23 @@
+.UsersContainer{
+    display: flex;
+    justify-content: space-between;
+}
+.users{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 10px;
+    width: 80%;
+}
+.userDetails{
+    padding: 5px;
+    border: 1px solid slateblue;
+}
+.userImg img{
+    width: 200px;
+    height: 200px;
+}
+.userImg button{
+    width: 100%;
+    font-size: 25px;
+    cursor: pointer;
+}

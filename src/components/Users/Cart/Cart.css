@@ -1,0 +1,10 @@
+.cartDetails{
+    width: 20%;
+    height: 300px;
+}
+.addUsersCart{
+    position: fixed;
+    background-color: aqua;
+    padding-left: 10px;
+    width: 100%;
+}
